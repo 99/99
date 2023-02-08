@@ -1,20 +1,5 @@
 ### Hi there 👋
-<div align="left" >
-  <a href="https://twitter.com/sheopedia" >
-    <img
-      src="https://img.shields.io/twitter/follow/sheopedia?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-    
-  </a>
 
-
-![](https://visitor-badge.laobi.icu/badge?page_id=99.99) 
-[![Github](https://img.shields.io/github/followers/99?label=Follow&style=social)](https://github.com/99)
- 
-
-
-<br />
 
 ####  💬 Ask me about:
 🔸Python  <br>
@@ -57,6 +42,8 @@ Waiting to connect with you!🙇‍♂️
 
 
 
+
+
 <!--
 **99/99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -89,3 +76,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="left" >
+  <a href="https://twitter.com/sheopedia" >
+    <img
+      src="https://img.shields.io/twitter/follow/sheopedia?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+    
+  </a>
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=99.99) 
+[![Github](https://img.shields.io/github/followers/99?label=Follow&style=social)](https://github.com/99)
+ 
+
+
+<br />
