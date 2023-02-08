@@ -94,4 +94,4 @@ Here are some ideas to get you started:
 
 <br />
 ADD THIS LATER
-<a href="https://twitter.com/FrancescoCiull4"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
+<a href="https://twitter.com/sheopedia"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
