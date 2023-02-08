@@ -6,20 +6,12 @@
 🔸FinTechs
 
 #### 🌱 I’m currently learning:
-Almost anything in tech as I am a tech enthusiast and lover of what technology especially it's impact in the world.<br>
-Some of the technologies that I am learning include:
+I am learning:
 
 🔸Rust
 
 #### 👯 I’m looking to collaborate on:
 Open Source especially Python Projects that will benefit the world. <br>
-
-#### ⚡ Fun fact:
-I use "food" as a search keyword to test for internet connectivity 😜.
-
-#### 📌Fav Quote:
-I do not fear computers but i fear lack of them. <br>
------ Isaac Asimov
 
 
 <h3 align="right">
