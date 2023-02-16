@@ -1,17 +1,12 @@
 ### Hi there 👋
 
+I don't keep my personal projects publicly available, so no You will not find anything useful here ( at least for now). And I'm actually actively using Gitlab now ( will see how long it will last) 
 
-####  💬 Ask me about:
-🔸Python  <br>
-🔸FinTechs
 
 #### 🌱 I’m currently learning:
-I am learning:
 
 🔸Rust
 
-#### 👯 I’m looking to collaborate on:
-Open Source especially Python Projects that will benefit the world. <br>
 
 
 <h3 align="right">
