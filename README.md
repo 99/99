@@ -64,21 +64,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="left" >
-  <a href="https://twitter.com/sheopedia" >
-    <img
-      src="https://img.shields.io/twitter/follow/sheopedia?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-    
-  </a>
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=99.99) 
 [![Github](https://img.shields.io/github/followers/99?label=Follow&style=social)](https://github.com/99)
  
 
-
-<br />
-ADD THIS LATER
-<a href="https://twitter.com/sheopedia"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
