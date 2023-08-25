@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I don't keep my personal projects publicly available, so no, You will not find anything useful here ( at least for now). And I'm actively using Gitlab now (I will see how long it will last) 
+My personal projects aren't on public display, so there's not much to see here currently. I've shifted to using GitLab actively, but who knows for how long?"
 
 
 #### 🌱 I’m currently learning:
