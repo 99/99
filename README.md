@@ -3,11 +3,6 @@
 My personal projects aren't on public display, so there's not much to see here currently. I've shifted to using GitLab actively, but who knows for how long?
 
 
-#### 🌱 I’m currently learning:
-
-🔸Rust
-
-
 
 <h3 align="right">
 Waiting to connect with you!🙇‍♂️
