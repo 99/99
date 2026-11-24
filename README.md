@@ -8,12 +8,6 @@ My personal projects aren't on public display, so there's not much to see here c
 Waiting to connect with you!🙇‍♂️
 </h3>
 
-## &#x1f4c8; My GitHub Analytics
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99&show_icons=true&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Ronnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=99&show_icons=true&theme=merko&align='right')](https://github.com/anuraghazra/github-readme-stats)
--->
-
 <p align="">
 <a href="https://github.com/99">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
