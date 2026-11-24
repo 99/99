@@ -4,22 +4,6 @@ My personal projects aren't on public display, so there's not much to see here c
 
 
 
-<h3 align="right">
-Waiting to connect with you!🙇‍♂️
-</h3>
-
-<p align="">
-<a href="https://github.com/99">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=99&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=99&layout=compact&langs_count=8&theme=merko"/>
-</a>
-</p>
-
-
-
-
-
-
 <!--
 **99/99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
